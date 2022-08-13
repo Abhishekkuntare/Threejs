@@ -1,0 +1,6 @@
+1. cd Desktop
+2. cd your folder name without zip
+3. gltf-pipeline -i scene.gltf -o your_folder_name.gltf -d
+4. npx gltfjsx your_folder_name.gltf
+
+
